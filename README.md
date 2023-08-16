@@ -1,6 +1,6 @@
-# parcel-react-typescript-boilerplate
+# Scout Scorer
 
-A typescript/react parcel site template
+A scorer for Scout
 
 ## Scripts
 
