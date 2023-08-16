@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"experimentalDecorators": true,
+		"jsxImportSource": "react",
+		"jsx": "react-jsx",
+		"lib": ["dom", "esnext"],
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true
+	}
+}
